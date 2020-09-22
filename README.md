@@ -1,2 +1,2 @@
-# team-git-test
-test git teams
+# Testing git releases
+
